@@ -1,0 +1,14 @@
+# Core
+click==8.1.7
+rich==13.7.0
+
+# Database
+sqlite-utils==3.35.2
+
+# Embeddings
+sentence-transformers==2.3.1
+chromadb==0.4.22
+numpy==1.26.3
+
+# Utilities
+python-dotenv==1.0.0
