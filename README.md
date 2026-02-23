@@ -1,5 +1,12 @@
 # devkb-cli
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/devkb-cli/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/devkb-cli/actions)
+![License](https://img.shields.io/github/license/yksanjo/devkb-cli)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/devkb-cli)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/devkb-cli)
+
 ## Detailed Description
 
 devkb-cli is maintained as an industry-grade software project with production-ready engineering practices.  
